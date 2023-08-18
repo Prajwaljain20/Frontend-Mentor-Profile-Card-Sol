@@ -21,12 +21,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-image.png
+![image](https://github.com/Prajwaljain20/Frontend-Mentor-Profile-Card-Sol/assets/76695932/2eac6923-000c-4126-8cc8-e6c8ebe5bccf)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-Profile-Card-Sol)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-Profile-Card-Sol/)
 
 ## My process
 
